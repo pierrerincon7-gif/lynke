@@ -1,0 +1,20 @@
+
+> fideliza-saas@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.23
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.2:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.2s
+ ○ Compiling / ...
+ ✓ Compiled / in 9.7s (651 modules)
+ ✓ Compiled in 1650ms (262 modules)
+ GET / 200 in 11352ms
+ ○ Compiling /iniciar-sesion ...
+ ✓ Compiled /iniciar-sesion in 908ms (648 modules)
+ GET /iniciar-sesion 200 in 1618ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 563ms (680 modules)
+ GET /dashboard 200 in 754ms
